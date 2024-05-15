@@ -1,2 +1,6 @@
-# Ignore folder node_modules beserta isinya
+# Node.js dependencies
 node_modules/
+
+# Build directories
+dist/
+build/
