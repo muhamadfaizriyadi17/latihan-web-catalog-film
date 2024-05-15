@@ -1,5 +1,2 @@
-# Ignore file yang berakhiran dengan ekstensi .log
-*.log
-
 # Ignore folder node_modules beserta isinya
 node_modules/
